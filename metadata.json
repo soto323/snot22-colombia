@@ -1,0 +1,6 @@
+{
+  "name": "Evaluador Sinusitis SNOT-22",
+  "description": "Herramienta clínica para evaluar la severidad de la rinosinusitis y dar seguimiento a los síntomas a lo largo del tiempo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
